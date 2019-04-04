@@ -7,3 +7,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 user=gets.strip
 user=user(index)
+display_board(board)
